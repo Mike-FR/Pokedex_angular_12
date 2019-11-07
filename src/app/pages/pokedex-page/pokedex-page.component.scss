@@ -1,0 +1,14 @@
+.poke-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.banniere {
+    display: flex;
+    justify-content: center;
+    
+    img {
+        width: 50%;
+        margin-bottom: 4em;
+    }
+}
